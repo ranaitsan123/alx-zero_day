@@ -1,0 +1,4 @@
+git add .
+git status
+git commit -m '4. Collaboration: be up to date'
+git push
